@@ -79,3 +79,36 @@
 
 **Link to work**
 [Portfolio Site](https://codepen.io/taylorafox1/full/JJbpWY/)
+
+### Day 9: June 19th, 2017
+
+**Today's Progress**:  I went through most of the Javascript challenges today and also used A Swarter Way To Learn JS and went through the for loops & functions sections. The short chapters & lots of exercises for that really help cement the concepts.
+
+**Thoughts** I am slowly starting to leanr JS. I have the basic concepts down, now it's just knowing how & when to use them in different situations.
+
+### Day 10: June 20th, 2017
+
+**Today's Progress**: I started the Bonfires. They're kind of hard. 
+
+**Thoughts** I had to take notes & make a list of what the code needed to do, which helped.
+
+**Link to work**
+[First Bonfire](https://codepen.io/taylorafox1/full/JJbpWY/) 
+
+### Day 11: June 21th, 2017
+
+**Today's Progress**: I did more of the Bonfires. The first few I had to do read-search-ask and read through code snippets from tons of different sources.
+
+**Thoughts** I was so tempted to just look up the solutions and actually did have to after trying it for about an hour. I only had a few parts off in my own code. 
+
+**Link to work**
+[One of the Bonfires](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+
+### Day 12: June 22th, 2017
+
+**Today's Progress**: Did one of the Bonfires. The first few I had to do read-search-ask and read through code snippets from tons of different sources.
+
+**Thoughts** I was so tempted to just look up the solutions and actually did have to after trying it for about an hour. I only had a few parts off in my own code. 
+
+**Link to work**
+[One of the Bonfires](https://www.freecodecamp.com/challenges/return-largest-numbers-in-arrays)
