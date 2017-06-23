@@ -112,3 +112,12 @@
 
 **Link to work**
 [One of the Bonfires](https://www.freecodecamp.com/challenges/return-largest-numbers-in-arrays)
+
+### Day 13: June 23th, 2017
+
+**Today's Progress**: Fixed CSS on portfolio site. The thumbnail photos weren't scaling to fit a mobile screen, added img-responsive class and fixed the bootstrap grid.
+
+**Thoughts** CSS is my best friend & worst enemy, all at the same time. 
+
+**Link to work**
+[Portfolio Site](https://codepen.io/taylorafox1/full/JJbpWY/)
