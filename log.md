@@ -121,3 +121,23 @@
 
 **Link to work**
 [Portfolio Site](https://codepen.io/taylorafox1/full/JJbpWY/)
+
+### Day 14: June 26th, 2017
+
+**Today's Progress**: Worked on JS Bonfires today. Got through Confirm the Ending & Repeat a String Repeat a String
+
+**Thoughts** I get so frustrated trying to figure these out but usually get them within a half hour or so. And then when I check the solutions of other people, I notice that I usually try to make it more complicated than it needs to be and I keep making the same mistake of not assigning the function code block correctly to a variable so it's usable in other parts of the code.
+
+**Link to work**
+[Confirm the Ending](https://www.freecodecamp.com/challenges/confirm-the-ending)
+[Repeat a String Repeat a String](https://www.freecodecamp.com/challenges/repeat-a-string-repeat-a-string)
+
+### Day 15: June 27th, 2017
+
+**Today's Progress**: Worked on JS Bonfires today. Got through Truncate A String
+
+**Thoughts** I made it more complicated & more redundant than it needed to be but I'm starting to work through the bonfires a little more easily. I make notes and try to break it up into steps.
+
+**Link to work**
+[Truncate a String](https://www.freecodecamp.com/challenges/truncate-a-string)
+
